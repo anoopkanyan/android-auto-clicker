@@ -1,9 +1,9 @@
 # Auto-Clicker and Screen-Capturer
 
-It is a program made to experiment with Android's adb commands.
+It is a program made to experiment with Android's adb commands. You can check out more about this [autoclcicker](https://www.autoclicker.co/) here.
 
 ## Purpose
-The intention of the app is to create a helper for my mom to use a company app more easily, by doing the monitoring and clicking by the app, instead of human, hoping that the app will run faster than human nerve system (~200 ms). However, certain commands that do the core functions are too slow (~3000 ms for screen capture and ~600 ms for clicking). So the project is abandoned due to this performance issue.
+The intention of the app is to create a helper for my mom to use a company app more easily, by doing the monitoring and clicking by the app, instead of human, hoping that the app will run faster than human nerve system (~200 ms). However, certain commands that do the core functions are too slow (~3000 ms for screen capture and ~600 ms for clicking). So the project is abandoned due to this performance issue. 
 
 ## Mechanism
 The mechanism of the program is as follows:
